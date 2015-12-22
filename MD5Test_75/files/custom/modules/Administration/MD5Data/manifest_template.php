@@ -2,7 +2,7 @@
 $manifest = array(
     'acceptable_sugar_versions' => array (
         'regex_matches' => array (
-            0 => "7\.6\.*.*",
+            0 => "7\.5\.*.*",
         ),
     ),
     'acceptable_sugar_flavors' => array (
@@ -16,7 +16,7 @@ $manifest = array(
     'description' 	    => 'A tool to replace and/or add files to a instance',
     'author' 		    => 'Ken Brill',
     'published_date'    => '10/15/2015',
-    'version' 		    => '7.6',
+    'version' 		    => '7.5',
     'type' 			    => 'module',
     'is_uninstallable' 	=> true,
 );
